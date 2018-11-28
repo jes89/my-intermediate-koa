@@ -1,0 +1,18 @@
+{
+  "name": "my-intermediate-koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "^2.2.2",
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.4",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.0",
+    "mysql2": "^1.6.4",
+    "nodemon": "^1.18.6",
+    "properties-reader": "^0.0.16",
+    "sequelize": "^4.41.2"
+  }
+}
